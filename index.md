@@ -1,23 +1,12 @@
-## Wang's Research Page
+# Wang's Research Page
 
-[Home](https://bin-a-wang-lab.github.io/Home/)  [News](https://bin-a-wang-lab.github.io/News/)  [Projects](https://bin-a-wang-lab.github.io/Projects/)   [Publications](https://bin-a-wang-lab.github.io/Publications/)  [Resources](https://bin-a-wang-lab.github.io/Resources/)
+## [Home](https://bin-a-wang-lab.github.io/Home/)  [News](https://bin-a-wang-lab.github.io/News/)  [Projects](https://bin-a-wang-lab.github.io/Projects/)   [Publications](https://bin-a-wang-lab.github.io/Publications/)  [Resources](https://bin-a-wang-lab.github.io/Resources/)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Bin A. Wang, PhD
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-# Bin A. Wang, PhD
 [Image](D:\Bochum\GitHub_picture\Picture4.jpg)
+
 I'm a Neuropsychologist. I am interested in the neural mechanism underlying prediction-based decision-making processes 
 involved in sensory detection, learning and memory. Combining the functional neuroimaging techniques (fMRI and EEG) and 
 computational modelling, I am investigating how the human brain updates the decision-makings during a probabilistic 
